@@ -1,13 +1,15 @@
 // ==UserScript==
 // @name         Custom Background
 // @namespace    http://tampermonkey.net/
-// @version      1.0
+// @version      1.1
 // @description  Script for adding a custom background to the Pianoverse!
 // @author       Hustandant
 // @match        https://pianoverse.net/*
 // @icon         https://avatars.githubusercontent.com/u/84928386
 // @grant        none
 // @license      MIT
+// @updateURL    https://raw.githubusercontent.com/Hustoroff/pianoverse/refs/heads/main/Custom%20Background.js
+// @downloadURL  https://raw.githubusercontent.com/Hustoroff/pianoverse/refs/heads/main/Custom%20Background.js
 // ==/UserScript==
 
 (function() {
